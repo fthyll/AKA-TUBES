@@ -13,3 +13,4 @@ Ketika terdapat sebuah array sejumlah data berupa angka, seringkali kita ingin m
 [![Tux, the Linux mascot](/img/11.jpg)]
 [![Tux, the Linux mascot](/img/12.jpg)]
 [![Tux, the Linux mascot](/img/13.jpg)]
+<p align="center"> <img src="/img/1.jpg" alt="fthyll" /> </p>
